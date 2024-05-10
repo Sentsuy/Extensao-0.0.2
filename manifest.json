@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Salvador de Links",
+  "version": "1.0",
+  "description": "Uma extensão para salvar links com o título da página como nome.",
+  "permissions": ["activeTab","storage"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
